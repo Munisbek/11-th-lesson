@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+    <title>Homework_1</title>
+</head>
+<body style="background-color: #afd9ee">
+<div class="container">
+    <h1 class="text-capitalize text-center">bootstrap mail app</h1>
+    <br>
+    <div class="row">
+        <div class="col-xs-3"></div>
+        <div class="col-xs-2">
+            <br>
+            <img src="img/2.jpg" width="120" height="130" class="pull-left">
+            <br>
+            <h3>Welcome to</h3><h4 class="text-muted">Mail App</h4>
+        </div>
+        <div class="col-xs-4">
+            <br>
+            <input type="email" placeholder="Enter your name" class="form-control">
+            <br>
+            <input type="password" placeholder="Password" class="form-control">
+            <br>
+            <button class="btn btn-block btn-primary btn-lg">Log In</button>
+            <br>
+            <div class="text-center">
+            <a href="#"><h4>Lost your password ?</h4></a>
+        </div>
+            </div>
+        <div class="col-xs-3"></div>
+    </div>
+</div>
+</body>
+</html>
