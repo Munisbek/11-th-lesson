@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+    <meta charset="UTF-8">
+    <title>Homework_2</title>
+</head>
+<body style="background-color: #d0e9c6">
+<div class="container">
+    <h1 class="text-center text-primary">What we do</h1>
+    <br><br>
+    <div class="row">
+        <div class="col-xs-6 text-center">
+        <img src="img/cup.png">
+
+        </div>
+        <div class="col-xs-6 text-center">
+            <img src="img/tablet.png">
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="row">
+        <div class="col-xs-5">
+            <h3 class="text-primary">Design</h3><br>
+            <h4 class="text-info">Буквально месяц назад на Хабре появился топик примерно с таким же названием и посвящалась она начинающим программистам, разжевывая некоторые особенности разработки под эту платформу. Еще тогда я подумал о написании этой статьи, так как показалось, что подходить к началу работы в новой среде лучше с другой стороны.</h4>
+        </div>
+        <div class="col-xs-2"></div>
+        <div class="col-xs-5">
+            <h3 class="text-primary">Digital</h3><br>
+            <h4 class="text-info">Буквально месяц назад на Хабре появился топик примерно с таким же названием и посвящалась она начинающим программистам, разжевывая некоторые особенности разработки под эту платформу. Еще тогда я подумал о написании этой статьи, так как показалось, что подходить к началу работы в новой среде лучше с другой стороны.</h4>
+        </div>
+    </div>
+    <br><br>
+    <div class="text-center">
+    <button class="btn btn-success btn-lg">Find our more</button>
+</div>
+    </div>
+
+</body>
+</html>
